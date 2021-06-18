@@ -1,3 +1,3 @@
 # FinanceMentor
 
-Testing out some Blazor WebAssembly.
+Testing out some Blazor WebAssembly
